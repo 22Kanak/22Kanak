@@ -1,4 +1,4 @@
-![logo](https://github.com/22Kanak/22Kanak/blob/main/banner.gif)
+![logo](https://github.com/22Kanak/22Kanak/blob/main/banner1.gif)
 
 <h1 align="center">Hi 👋, I'm Software Engineer Student Kanak Thakur</h1>
 <h3 align="center">A passionate Java developer from India</h3>
